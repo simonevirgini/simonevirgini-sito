@@ -1,0 +1,12 @@
+/blog  /  301
+/3d  /  301
+/shop  /  301
+/who-i-am  /about  301
+/contact-me  /about  301
+/home  /  301
+/wp-admin/*  /  301
+/wp-login.php  /  301
+/feed  /  301
+/feed/*  /  301
+/project  /  301
+/project/  /  301
